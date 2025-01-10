@@ -20,6 +20,17 @@ public class Prueba {
 
     }
 
+    public class Operacion {
+
+    public static int Multiplicar (int c, int d, int e){
+
+    return c*d*e;
+
+    }
+
+    }
+
+
     public static void main(String[] args) {
     
     Prueba Vijay = new Prueba();
@@ -37,6 +48,12 @@ public class Prueba {
 
     System.out.println(Extra1);
 
+    int resultadoM = Operacion.Multiplicar (2,3,5);
+
+    System.out.println(resultadoM);
+
+
     }
-    
+
 }
+    
