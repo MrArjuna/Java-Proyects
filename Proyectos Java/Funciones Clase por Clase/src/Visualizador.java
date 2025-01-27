@@ -62,6 +62,17 @@ public class Visualizador {
 
         System.out.println(Odivision);
 
-     }
+     
 
+      //Variable Global y Local
+
+      VariableGlobal ObjGlobal = new VariableGlobal();
+
+      ObjGlobal.VarGlobal(" Desde Obj Global");
+       
+
+
+
+    }
+      
 }

@@ -21,3 +21,7 @@ public class MyAbstractMethod2 extends AbstractMethod1{
     }
 
 }
+
+
+
+
